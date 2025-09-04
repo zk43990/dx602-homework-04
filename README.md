@@ -54,7 +54,7 @@ Choose whichever option works best for your situation.
 
 #### Gradescope Submission Guidelines
 
-* Upload your notebook using the appropriate homework link in [Gradescope](https://www.gradescope.com/courses/1067099).
+* Upload your notebook using the Gradescope link in Blackboard.
 * Be sure you upload only one file, named **homework.ipynb**.
 * You may resubmit before the deadline, but your last submission will determine the date and time of submission.
 * For full credit, you must submit it to Gradescope by midnight on Sunday, with a two-hour grace period.
