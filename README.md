@@ -2,84 +2,67 @@
 
 ## Instructions
 
-### Fork this Repository to Make a Copy in Your Account
+You have three options for running the assignment notebook:
+* **Option A**: Download and run locally in your own Jupyter environment.
+* **Option B**: Open and run directly in GitHub Codespaces.
+* **Option C**: Upload and run in Google Colab.
 
-#### 1. Open the "Fork" menu.
+Choose whichever option works best for your situation.
 
-<img width="145" height="43" alt="image" src="https://github.com/user-attachments/assets/a8fc53f9-6c1c-4673-a032-2cbe382f4331" />
+### Downloading the Assignment from GitHub
 
-#### 2. Select "Create a new fork".
+* Visit the homework repository. This should be where you found this README. Otherwise, you can find it in the [course homework repository list](https://github.com/orgs/bu-cds-dx602/repositories).
+* Click on **homework.ipynb** to view the notebook.
+* Depending on your chosen option:
+  * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. Repeat this process for the four data files with names ending in ".tsv". <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
+  * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
 
-<img width="303" height="150" alt="image" src="https://github.com/user-attachments/assets/9eb7f647-c9e2-4fa5-9f05-4b8721112475" />
+* **This assignment also includes many data files with names ending in CSV, TSV and JSON.** Download these files too.
 
-#### 3. Click the "Create fork" button to create a repository in your personal account.
+### Running the Notebook
 
-<img width="743" height="550" alt="image" src="https://github.com/user-attachments/assets/84377ae9-4962-4ffc-b2a0-3c4e0febe4a2" />
+#### Option A: As a Local File
 
-### Edit and Run the Notebook in Codespaces
+1. Open Jupyter (Anaconda, JupyterLab, or VS Code with Jupyter support).
+2. Navigate to the downloaded **homework.ipynb**.
+3. Edit and run the notebook to complete the assignment.
+4. Make sure to save the notebook before continuing.
 
-#### 1. Open the "Code" menu.
+#### Option B: Using GitHub Codespaces
 
-<img width="110" height="38" alt="image" src="https://github.com/user-attachments/assets/fb1ede9c-8176-4f93-ac00-0b7e06882012" />
+1. Go to the repository for this homework. If necessary, you can find it again in the [course homework respositories list](https://github.com/orgs/bu-cds-dx602/repositories).
+2. Click the green **Code** button and select **Open with Codespaces > New codespace**.
+3. Once Codespaces launches, open **homework.ipynb** directly from the Codespaces file list.
+4. Edit and run the notebook using the built-in JupyterLab interface.
+5. When finished, download the completed notebook: right-click the file in the Codespaces file tree → **Download**.
 
-#### 2. Select "Codespaces" as needed.
+#### Option C: Using Google Colab
 
-<img width="409" height="348" alt="image" src="https://github.com/user-attachments/assets/e9fab8d7-dfb9-4367-a0ff-66269dcc15f7" />
+* Upload to Colab:
+  * Open [Google Colab](https://colab.research.google.com/).
+  * (Optional: Read/View resources in **Welcome to Colab**.)
+  * Click on **File > Upload notebook** and
+    * Browse for your downloaded file, or
+    * Bypass the download step specified above and download from GitHub directly.
+  * Upload the data files that you previously downloaded.
+    * <img width="78" height="77" alt="Image" src="https://github.com/user-attachments/assets/03eff542-a4d7-4e84-a4ce-775d1d358a59" />
+    * Drag and drop the data files into the file pane that appears.
+* Edit and run the notebook as needed to complete the assignment.
+* Download the notebook:
+  * Be sure to **Restart the Kernel and Run All Cells** before downloading!
+  * Click on **File > Download > Download .ipynb** to save to your local directory.
 
-#### 3. Click the "Create codespace on main" button.
+### Submitting the Notebook for Grading
 
-<img width="402" height="429" alt="image" src="https://github.com/user-attachments/assets/fcb672be-cad8-4f85-ac48-deff5df6f20d" />
+#### Gradescope Submission Guidelines
 
-#### 4. Select "homework.ipynb" to open the homework notebook.
+* Upload your notebook using the appropriate homework link in [Gradescope](https://www.gradescope.com/courses/1067099).
+* Be sure you upload only one file, named **homework.ipynb**.
+* You may resubmit before the deadline, but your last submission will determine the date and time of submission.
+* For full credit, you must submit it to Gradescope by midnight on Sunday, with a two-hour grace period.
+* Assignments submitted late will be penalized 10% per day, up to five days late, after which no assignment will be accepted.
 
-<img width="240" height="172" alt="image" src="https://github.com/user-attachments/assets/0f614d3f-786b-4123-b5e7-2ec358f28715" />
+### After Submission
 
-#### 5. Follow the instructions in the notebook.
-
-<img width="934" height="427" alt="image" src="https://github.com/user-attachments/assets/6ef4a80f-0023-4ab8-8a0c-451fad8c4b4a" />
-
-#### 6. Make sure to save, commit and push back to Github when you are done.
-
-<img width="37" height="42" alt="image" src="https://github.com/user-attachments/assets/6b171a76-b039-433d-b309-6c180c917ca3" />
-
-### Submit Notebook in Gradescope
-
-#### 1. Open Gradescope web site and login with your BU email.
-
-https://www.gradescope.com/
-
-#### 2. Select this class.
-
-<img width="710" height="224" alt="image" src="https://github.com/user-attachments/assets/705833ce-e7d8-445b-9bca-5690211844a0" />
-
-#### 3. Select the current assignment.
-
-<img width="968" height="362" alt="image" src="https://github.com/user-attachments/assets/aa698352-bde3-4770-bd03-06b6565f268a" />
-
-#### 4. Submit "homework.ipynb".
-
-<img width="444" height="360" alt="image" src="https://github.com/user-attachments/assets/0f5c8b07-a339-4bbb-aa28-b2bebb42aa09" />
-
-You can download homework.ipynb and submit that file, or use the Github option.
-Make sure that you pushed your latest changes first if you use Github.
-The Github option does not work if you are accessing Gradescope from within Blackboard.
-
-#### 5. Confirm Gradescope Receipt
-
-<img width="381" height="177" alt="image" src="https://github.com/user-attachments/assets/a0e1c2c5-1527-4cb4-a658-d8c5e3102dfc" />
-
-#### 6. Check the autograder responses.
-
-These should be available within a minute of submission.
-
-##### Notebook submitted without your changes.
-
-<img width="614" height="198" alt="image" src="https://github.com/user-attachments/assets/10e9473d-2932-40df-9fdb-6ee13112d0d2" />
-
-##### Notebook successfully submitted and passing tests.
-
-<img width="919" height="519" alt="image" src="https://github.com/user-attachments/assets/433bb3b3-1ac5-4985-996b-00002eb2e74e" />
-
-#### 7. Resubmit as Necessary based on Autograder Feedback
-
-<img width="98" height="37" alt="image" src="https://github.com/user-attachments/assets/26850049-8089-4150-923b-801c02bbc837" />
+* The autograder will provide immediate feedback on your grade.
+* If you believe some error has occurred, you may submit a regrade request; please be specific about which problems and what error you think occurred.
