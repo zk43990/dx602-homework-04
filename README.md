@@ -17,8 +17,6 @@ Choose whichever option works best for your situation.
   * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. Repeat this process for the data files too. <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
   * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
 
-* **This assignment also includes many data files with names ending in CSV, TSV and JSON.** Download these files too.
-
 ### Running the Notebook
 
 #### Option A: As a Local File
